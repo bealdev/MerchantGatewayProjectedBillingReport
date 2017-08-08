@@ -1,4 +1,4 @@
-# MerchantGatewayProjectedBillingReport
+# Merchant Gateway Projected Billing Report
 
 The merchant gateway projected billing report is used to predict how much funds will be availabe to process before the merchant reaches its capacity according to a date.
 
